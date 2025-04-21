@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=et-spark&label=Profile%20views&color=0e75b6&style=flat" alt="et-spark" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=et-spark" alt="et-spark" /></a> </p>
-
 - 🔭 I’m currently working on **Movie Streaming Application**
 
 - 👯 I’m looking to collaborate on **On mobile and web app projects**
