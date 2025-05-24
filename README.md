@@ -18,8 +18,4 @@
 </p>
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=et-spark&show_icons=true&locale=en" alt="et-spark" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=et-spark&" alt="et-spark" /></p>
