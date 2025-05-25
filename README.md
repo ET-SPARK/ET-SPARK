@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Woyesso</h1>
-<h3 align="center">Building seamless experiences at Arkwood. Merging innovation with function. Embracing next-gen tech.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=et-spark&label=Profile%20views&color=0e75b6&style=flat" alt="et-spark" /> </p>
 
