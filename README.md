@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=et-spark&label=Profile%20views&color=0e75b6&style=flat" alt="et-spark" /> </p>
 
-- 🔭 I’m currently working on **Movie Streaming Application**
+- 🔭 I’m currently working on **Full stack AI development**
 
 - 👯 I’m looking to collaborate on **On mobile and web app projects**
 
